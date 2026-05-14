@@ -1,6 +1,16 @@
 # Proposed Structure
 
-README.md
+## For each:
+Vulnerability class:
+Root cause:
+How I tested for it:
+Impact:
+How to prevent it:
+Secure SDLC relevance:
+Regulated software / medical device relevance:
+
+## Directory:
+  README.md
   portfolio-index.md
   learning-roadmap.md
 
